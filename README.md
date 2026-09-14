@@ -1,4 +1,5 @@
 # Multi-Scale Adaptive Neural Network for Black Hole Parameter Regression
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22753217.svg)](https://doi.org/10.5281/zenodo.22753217)
 
 ## Project Overview
 This repository contains the source code and experimental results for my independent research project on applying deep learning to astrophysics. The goal is to infer physical parameters of black holes (spin, inclination, and magnetization) directly from synthetic black hole shadow images.
@@ -20,5 +21,6 @@ The core of this framework is the **Multi-Scale Adaptive Network (MANet)**. Unli
 ## Reference
 *   Chollet, F. (2019). On the Measure of Intelligence. arXiv:1911.01547.
 *   Event Horizon Telescope Collaboration (2019). First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole.
-
-*Author: Mukat Alfira*
+## Full Paper
+  
+*Author: Alfira Mukat*
